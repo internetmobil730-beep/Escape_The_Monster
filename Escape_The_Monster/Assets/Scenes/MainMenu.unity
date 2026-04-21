@@ -580,8 +580,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4282466614
-  m_fontColor: {r: 0.21176472, g: 0.25490198, b: 0.25490198, a: 1}
+    rgba: 4285089045
+  m_fontColor: {r: 0.08235294, g: 0.27058825, b: 0.4117647, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -685,8 +685,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 38, y: 116}
-  m_SizeDelta: {x: 367.1148, y: 190.7788}
+  m_AnchoredPosition: {x: -2.143, y: 150.1446}
+  m_SizeDelta: {x: 1659.1, y: 453.4289}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1443911575
 MonoBehaviour:
@@ -708,7 +708,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: WELCOME TO GAME
+  m_text: "WELCOME TO\n ESCAPE THE MONSTER"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -717,8 +717,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4283584841
-  m_fontColor: {r: 0.28627452, g: 0.31764707, b: 0.32156864, a: 1}
+    rgba: 4285089045
+  m_fontColor: {r: 0.08304021, g: 0.27062896, b: 0.4113207, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -774,7 +774,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -222.34315, y: 26.211483, z: -151.27655, w: -8.908301}
+  m_margin: {x: 3.536501, y: 26.211483, z: -1.5612184, w: -8.908301}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -825,7 +825,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 4.2787, y: 292.6}
+  m_AnchoredPosition: {x: 4.2787, y: 292.60156}
   m_SizeDelta: {x: 390.2194, y: 91.7961}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1881164533
